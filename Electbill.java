@@ -1,4 +1,4 @@
-aimport java.util.Scanner;
+import java.util.Scanner;
 public class ElectBill
 {
 public static void main(String[]args)
